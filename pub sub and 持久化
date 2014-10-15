@@ -1,0 +1,6 @@
+redis是一种消息通信机制，把消息类型定义为通道
+
+
+redis持久化
+redis持久化技术有两种方式1 snapshotting2aof
+1 snapshotting表面意思为快照方式，
